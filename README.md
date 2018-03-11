@@ -2,4 +2,6 @@
 
 Demo for git : it works well.
 
-Modification of Readme from Github
+Modification of Readme from Github.
+
+Also locale modification. 
